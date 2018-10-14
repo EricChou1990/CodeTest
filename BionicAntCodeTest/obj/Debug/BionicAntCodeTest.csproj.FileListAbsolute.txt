@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\stc\BionicAntCodeTest\BionicAntCodeTest\bin\Debug\BionicAntCodeTest.dll
+C:\Users\Administrator\Desktop\stc\BionicAntCodeTest\BionicAntCodeTest\bin\Debug\BionicAntCodeTest.pdb
+C:\Users\Administrator\Desktop\stc\BionicAntCodeTest\BionicAntCodeTest\obj\Debug\BionicAntCodeTest.dll
+C:\Users\Administrator\Desktop\stc\BionicAntCodeTest\BionicAntCodeTest\obj\Debug\BionicAntCodeTest.pdb
+C:\Users\Administrator\Desktop\stc\BionicAntCodeTest\BionicAntCodeTest\bin\Debug\nunit.framework.dll
+C:\Users\Administrator\Desktop\stc\BionicAntCodeTest\BionicAntCodeTest\bin\Debug\nunit.framework.xml
+C:\Users\Administrator\Desktop\stc\BionicAntCodeTest\BionicAntCodeTest\obj\Debug\BionicAntCodeTest.csprojResolveAssemblyReference.cache
